@@ -85,7 +85,7 @@ To make your Classic Reports and Interactive Reports more interactive and useful
 | `regionId`        | String | Yes | Static ID of the region. |
 | `options`         | Object | No |  Refer to following table for options object.|
 
-##### Opitons Object
+##### Options Object
 | Name                      | Default  | Required|  Purpose                                                     | 
 |---------------------------|----------|----------|----------------------------------------------------------------------|
 | `multiSelection`         | `False`| No | If the user is allowed to select multiple rows. |
